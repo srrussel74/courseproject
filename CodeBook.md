@@ -151,6 +151,7 @@ Create array M by adding cols action\_id and subjects to X\_extract. The new col
 8. #####Name averages variables (features)
 The list of averages is based on the list above, then the names are created with paste 'M-' at begin of corresponded feature name from features\_extract (See 4\.). 
 For example: the average of tBodyAcc-mean()-X by a subject and an action is noted as _"M-tBodyAcc-mean()-X"_
+The information about units of the averages are given in features_info.txt by units of corresponding features. Unit of a mean of set values of a variable is same as unit of the variable.
 
 	>Remark: the names for means are rownames of second data. They are not allowed to be written to second file for Course Project. The names of average of each variables are written to file names_mean.txt. 
 

@@ -9,7 +9,7 @@ Introduction
 ------------
 The Course project is part of Coursera course "Getting and Cleaning Data". README.md belongs to the data project with datafiles downloading from the link:
 
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 README.md here describes script run_analysis.R and its outcomes. It works with datafiles from the link. The goal of this script is to create:
 
